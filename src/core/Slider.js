@@ -13,8 +13,8 @@ const Slider = () => {
                     <div className="carousel-item active">
                         <img src="https://images.meesho.com/images/pow/supply_banner_desktop.webp" alt="Los Angeles" width="100%" height="50%" />
                         <div className="carousel-caption">
-                            <h3>Los Angeles</h3>
-                            <p>We had such a great time in LA!</p>
+                            <h3>Clothes Store </h3>
+                            <p>Here you can buy , that looks good on you</p>
                         </div>
                     </div>
                     <div className="carousel-item">
