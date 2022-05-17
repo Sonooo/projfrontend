@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,19 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# Project Frontend
+
+``` git clone  https://github.com/Sonooo/projfrontend.git ```
+
+``` cd projfrontend ```
+
+``` npm install ```
+
+## First run https://github.com/Sonooo/Ecommerce-App-API  and add API endpoint in .env file
+
+``` npm start```
+
+
+![alt text](https://github.com/Sonooo/projfrontend/blob/master/Screenshot%20(377).png?raw=true)
+>>>>>>> dbe98394fec0da290bb570c9b74971538b76a665
