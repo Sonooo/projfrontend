@@ -59,7 +59,7 @@ const Card = ({ product, addtoCart = true, removeFromCart = false, setreload = f
 
 
     return (
-        <div className="card text-white border border-light " style={{background : "#0D0D0D"}}>
+        <div className="card text-white border border-light " style={{background : "#0D0D0D", borderRadius : "4%"}}>
             <div className="card-header lead">{cartTitle}</div>
             <div className="card-body">
                 {getARedirect(redirect)}
