@@ -1,1 +1,7 @@
 node_modules
+cypress.config.js
+cypress/e2e/demo.cy.js
+cypress/e2e/spec.cy.js
+cypress/fixtures/example.json
+cypress/support/commands.js
+cypress/support/e2e.js
