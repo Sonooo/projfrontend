@@ -51,7 +51,7 @@ const Manageproducts = () => {
                     {products.map((product, index) => {
                         return (<div key={index} className="row text-center mb-2 ">
                             <div className="col-4">
-                                <h3 className="text-white text-left">{product.name}</h3>
+                                <h3 className="text-dark text-left">{product.name}</h3>
                             </div>
                             <div className="col-4">
                                 <Link
