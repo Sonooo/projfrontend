@@ -89,7 +89,7 @@ const AdminDashBoard = () => {
         >
             <div className="row">
                 <div className="col-md-4 mb-4">{adminLeftSide()}</div>
-                <div className="col-md-4 mb-4">{adminRightSide()}</div>
+                <div className="col-md-8 mb-4">{adminRightSide()}</div>
 
 
             </div>
